@@ -1,3 +1,3 @@
 # CITC 1300 Project Page
 
-<a href="Intro">Intro to HTML<a>
+<a href="Intro/Index.html">Intro to HTML</a>
