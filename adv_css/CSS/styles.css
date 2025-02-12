@@ -82,10 +82,17 @@ nav li {
 #paragraph{
     text-align: center;
 }
-#themelist {
+#themelist1 {
    text-align: center;
   list-style-type: none;
     
+}
+#themelist2{ text-align: center;
+    list-style-type: none;
+}
+#themelist3{
+    text-align: center;
+    list-style-type: none;
 }
 
 h1,h2,h3,footer {
