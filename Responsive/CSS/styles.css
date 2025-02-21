@@ -50,13 +50,12 @@ img{
     main {
         padding: 20px;
 
-        h1 
-        h2 
+        h1,
+        h2, 
         h3 {
             text-align: center;
             color: white;
-            text-shadow: 2px 2px 2px #73574D;
-        }
+            text-shadow: 2px 2px 2px #73574D;}
     
     
          }
